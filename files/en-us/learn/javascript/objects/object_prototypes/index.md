@@ -240,6 +240,6 @@ In the next article we'll discuss inheritance along with the other main features
 
 This article has covered JavaScript object prototypes, including how prototype object chains allow objects to inherit features from one another, the prototype property and how it can be used to add methods to constructors, and other related topics.
 
-In the next article we'll look at the concepts underlying object-oriented programming.
+In the next article we'll look at the concepts underlying object-oriented Programming.
 
 {{PreviousMenuNext("Learn/JavaScript/Objects/Basics", "Learn/JavaScript/Objects/Object-oriented_programming", "Learn/JavaScript/Objects")}}
